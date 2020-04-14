@@ -1,0 +1,7 @@
+C:\Users\M4TTH3W\source\repos\Wskaznik\Wskaznik\bin\Debug\Wskaznik.dll
+C:\Users\M4TTH3W\source\repos\Wskaznik\Wskaznik\bin\Debug\Wskaznik.pdb
+C:\Users\M4TTH3W\source\repos\Wskaznik\Wskaznik\obj\Debug\Wskaznik.csprojAssemblyReference.cache
+C:\Users\M4TTH3W\source\repos\Wskaznik\Wskaznik\obj\Debug\Wskaznik.UserControl1.resources
+C:\Users\M4TTH3W\source\repos\Wskaznik\Wskaznik\obj\Debug\Wskaznik.csproj.GenerateResource.cache
+C:\Users\M4TTH3W\source\repos\Wskaznik\Wskaznik\obj\Debug\Wskaznik.dll
+C:\Users\M4TTH3W\source\repos\Wskaznik\Wskaznik\obj\Debug\Wskaznik.pdb

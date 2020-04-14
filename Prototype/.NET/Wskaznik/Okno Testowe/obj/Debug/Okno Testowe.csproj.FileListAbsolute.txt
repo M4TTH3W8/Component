@@ -1,0 +1,12 @@
+C:\Users\M4TTH3W\source\repos\Wskaznik\Okno Testowe\bin\Debug\Okno Testowe.exe.config
+C:\Users\M4TTH3W\source\repos\Wskaznik\Okno Testowe\bin\Debug\Okno Testowe.exe
+C:\Users\M4TTH3W\source\repos\Wskaznik\Okno Testowe\bin\Debug\Okno Testowe.pdb
+C:\Users\M4TTH3W\source\repos\Wskaznik\Okno Testowe\bin\Debug\Wskaznik.dll
+C:\Users\M4TTH3W\source\repos\Wskaznik\Okno Testowe\bin\Debug\Wskaznik.pdb
+C:\Users\M4TTH3W\source\repos\Wskaznik\Okno Testowe\obj\Debug\Okno Testowe.csprojAssemblyReference.cache
+C:\Users\M4TTH3W\source\repos\Wskaznik\Okno Testowe\obj\Debug\Okno_Testowe.Properties.Resources.resources
+C:\Users\M4TTH3W\source\repos\Wskaznik\Okno Testowe\obj\Debug\Okno Testowe.csproj.GenerateResource.cache
+C:\Users\M4TTH3W\source\repos\Wskaznik\Okno Testowe\obj\Debug\Okno Testowe.csproj.CopyComplete
+C:\Users\M4TTH3W\source\repos\Wskaznik\Okno Testowe\obj\Debug\Okno Testowe.exe
+C:\Users\M4TTH3W\source\repos\Wskaznik\Okno Testowe\obj\Debug\Okno Testowe.pdb
+C:\Users\M4TTH3W\source\repos\Wskaznik\Okno Testowe\obj\Debug\Okno_Testowe.Form1.resources
